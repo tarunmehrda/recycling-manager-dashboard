@@ -8,6 +8,8 @@
 
 *Optimizing environmental impact through strategic workforce management*
 
+Video Link:-https://drive.google.com/file/d/1cVbaNstYt65XWjdoCYERS0bbbEzmmtRd/view?usp=sharing
+
 [![React](https://img.shields.io/badge/React-18.x-61dafb?style=flat&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646cff?style=flat&logo=vite)](https://vitejs.dev/)
 [![Mantine](https://img.shields.io/badge/Mantine-UI-339af0?style=flat)](https://mantine.dev/)
@@ -23,10 +25,6 @@
 <div align="center">
 
 ### Comprehensive Analytics & Rankings
-
-<img width="1841" height="942" alt="Image" src="https://github.com/user-attachments/assets/59ca3340-61f4-4ab1-bf89-554a4610b573" />
-<img width="1728" height="540" alt="Image" src="https://github.com/user-attachments/assets/96245324-06af-4da2-b227-4c6dda96cae7" />
-<img width="1668" height="993" alt="Image" src="https://github.com/user-attachments/assets/5da5203d-774d-45bd-8c39-e7e004983bbe" />
 
 *Real-time candidate evaluation with AI-powered scoring across Crisis Management, Sustainability, and Team Motivation*
 
@@ -319,5 +317,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with 💚 for a sustainable future
 
 </div>
+
 
 
