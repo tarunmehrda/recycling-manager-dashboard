@@ -45,7 +45,7 @@
 
 ### Individual Performance Profiles
 
-<img src="./screenshots/candidate-profiles.png" alt="Candidate Profiles" width="800"/>
+<img width="754" height="550" alt="Image" src="https://github.com/user-attachments/assets/a53af2bd-3067-48b7-b85b-99664fb07744" /> <img width="793" height="530" alt="Image" src="https://github.com/user-attachments/assets/5d02e4c7-a88e-45a6-8847-3838c6c8c5e9" /> <img width="786" height="560" alt="Image" src="https://github.com/user-attachments/assets/8c8961df-e29f-44cf-bbf0-e3b8e4fd3caf" />﻿# recycling-manager-dashboard <div align="center">
 
 *Detailed breakdown of each candidate's strengths across core competencies*
 
@@ -317,3 +317,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with 💚 for a sustainable future
 
 </div>
+
